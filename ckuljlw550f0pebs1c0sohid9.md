@@ -1,4 +1,4 @@
-## Introduction to Programming and its languages.
+## Introduction to Programming - Types of Languages, Memory Management
 
 %%[youtube]
 
@@ -7,15 +7,15 @@
 
 
 
-Yes, you heard it right. Lets start exploring programming.
+ Lets explore Introduction to Programming and Memory Management .
 
 ## Introduction
 
 - We need to give instructions to the computer in order to perform the task.
 
-- In order to perform a task first and foremost work is to give instructions to the computer to perform tasks.
+- In order to perform a task we need to give instructions to the computer to perform tasks.
 
-- **Computers understand only 0's and 1's you heard it right its true.**
+- **Computers understand only 0's and 1's .**
 
 
 - **A language used by programmers to communicate with the computer is called as a programming language.
@@ -25,54 +25,61 @@ There are different types of Programming Languages.
 
 Namely :
 
--  Procedural .<br>
+-  Procedural Language .<br>
 
-- Functional .<br>
+- Functional Language.<br>
 
-- Object oriented .<br>
-
-- Static .<br>
-
-- Dynamic. <br>
-
-
+- Object oriented Language .<br>
 
 *As we got to know regarding types lets go to the actual meanings regarding the types of programming languages.*
 
-### 1. Procedural Programming:
+### 1. Procedural Language:
 
-- Procedural Programming specifies steps of well structured steps and procedures to 
+- Procedural Language specifies steps of well structured steps and procedures to 
 compose a program.
 
-- This type contains systematic order of statements,functions and commands to complete the task.
+- This type contains systematic order of **Statements ,Functions** and **Commands** to complete the task.
 
 - **We can consider C,C++,Java as Procedural Programming.**
 
-- ** We can also consider loops,switch and case statements in this type.**
+- ** We can also consider loops, switch and case statements in this type.**
+
+- Ex: int a = 10;
 
 
-### 2. Functional Programming:
+### 2. Functional Language:
 
-- Functional programming can be stated as writing a program only in pure functions.
+- Functional Language can be stated as writing a program in Pure Functions.
 
 -   **Pure functions**: Pure functions are those which we can never modify variables 
       
       but create new ones as an output.
 
-- The functional programming is used in situations where we can perform lots of 
+- The Functional Language is used in situations where we can perform lots of 
 
      different operations on the same set of data like ML.
 
+- Ex:          
+
+                     a = 10
+                  
+                    a = "Lavanya"
+
+In this case if the object is not used it is sent to **Garbage Collection**.
+
+**Garbage Collection**: *Objects which don't have a reference variable pointing towards 
+
+the  object will be moved to garbage collection. *
 
 > 
-- We can consider python as Functional  and Procedural Programming.
+- We can consider python as Functional Language and Procedural Language.
 
- **First class functions: Inshort ->Reassigning variables. **
+ **First class functions: In short ->Reassigning variables. **
 
 
-### 3. Object-oriented programming:
+### 3. Object-Oriented Programming Language:
 
-- Object oriented programming revolves around **Objects.** 
+- Object Oriented Programming language revolves around **Objects.** 
 
 - **Code + Data =Object. **
 
@@ -80,14 +87,24 @@ compose a program.
 - **Related to object, class and some subsequent words we will see in further series.**
 
 
-- Object oriented programming is developed to make it easier to 
-  
-  develop,debug,reuse and maintain software.
+- Object oriented programming is developed to make it easier to  develop, debug, reuse 
+
+and maintain software.
 
 - Used to develop code in chunks (small version)to make it easier.
 
-  
-### 4. Static:  
+ As we explored Programming and its types now lets discuss related to Memory Allocation 
+ 
+   in brief.
+
+There are two types of Memory Allocation namely 
+
+1. Static Allocation.
+
+2. Dynamic Allocation.
+
+
+### 1. Static Allocation:  
 
 - Performs checking at compile time.
 
@@ -97,9 +114,17 @@ compose a program.
 
 - In this type we can have more control on code.
 
-### 5. Dynamic:
+Ex: 
 
-- Performs checking at run time.
+                int a = 10;
+
+ In Java , if we don't specify the datatype it shows error in the compile time itself.
+
+i.e., At the time of compilation.
+
+### 2. Dynamic Allocation:
+
+- Performs checking at Run time.
 
 - Errors cannot be identified easily.
 
@@ -107,36 +132,20 @@ compose a program.
 
 - Saves time in writing the code but might show errors at run time.
 
+Ex:  
+
+
+                      a = 10
+      
+        
+In Python the errors are shown after compilation.(Run Time).
+
 
 > 
-Compile Time:Compile time refers to the time duration in which the programming code is converted to the machine code (i.e binary code) and usually occurs before runtime.
+Compile Time: Compile time refers to the time duration in which the programming code is converted to the machine code (i.e., binary code) and usually occurs before runtime.
 
 
 > Run Time: Runtime is the period of time when a program is running. It begins when a program is opened (or executed) and ends with the program is quit or closed. Runtime is a technical term, used most often in software development.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1633882464339/gjAJliyvz.png)
@@ -144,12 +153,8 @@ Compile Time:Compile time refers to the time duration in which the programming c
 Image Credits: 
 <a href="https://twitter.com/kunalstwt">KunalKushwaha</a>
 
-Memory Management: 
-There are two types of memory.
-Namely:
 
-1. Stack.
-2. Heap.
+Stack and Heap.# 
 
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1633887647570/l57nSha3U.png)
@@ -166,12 +171,12 @@ Here in stack, *reference variable(a) along the address variable is pointing to 
 
 
 > 
-Thats all for this article see you in the next one with Flow chart and its types and some examples regarding flow charts.
+That's all for this article see you in the next one with Flow chart and its Types and some examples regarding flow charts.
 
 See you:)
 
 
-join me on canva: <a href="https://www.canva.com/join/qpp-bwq-frn">lavs</a>
+join me on Canva: <a href="https://www.canva.com/join/qpp-bwq-frn">lavs</a>
 
 Lets catch up!!
 - Reach me out at below links:💥
