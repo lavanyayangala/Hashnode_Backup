@@ -171,7 +171,7 @@ Here in stack, *reference variable(a) along the address variable is pointing to 
 
 
 > 
-That's all for this article see you in the next one with Flow chart and its Types and some examples regarding flow charts.
+That's all for this article see you in the next one 😊
 
 See you:)
 
