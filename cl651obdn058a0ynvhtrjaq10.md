@@ -47,6 +47,20 @@ produce sum of two numbers represented as output can be called as pseudo code wh
 
 - Even non coder can make an attempt to understand the steps involved while writing the code.
 
+That's all for this article see you in the next one 😊
+
+See you:)
+
+
+join me on Canva: <a href="https://www.canva.com/join/qpp-bwq-frn">lavs</a>
+
+Lets catch up!!
+- Reach me out at below links:💥
+- Github:<a href="https://github.com/lavanyayangala" >🙋Github</a>
+- LinkedIn: <a href ="https://www.linkedin.com/in/lavanya-yangala/">👸Linkedin</a>
+- Youtube: <a href="https://www.youtube.com/channel/UCq0XOjnIdC1cZyIaW7BZKeQ">💬Youtube</a>
+- Twitter-<a href ="https://twitter.com/Lavanya45752554"> 💬Twitter</a>
+- Hashnode - <a href ="https://lavanyayangala.hashnode.dev/"> 💬Hash Node</a>
 
 
 
