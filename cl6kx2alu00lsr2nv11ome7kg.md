@@ -1,5 +1,7 @@
 ## Introduction to Java -Architecture of Java.
 
+# Introduction:
+
 As we know computer understands only 0's and 1's we need to give instructions in the 
 
 same manner. 
@@ -7,6 +9,8 @@ same manner.
 Programming Languages are used to instruct computers understand the instructions 
 
 provided by human.
+
+# File Structures:
 
 We write instructions in different file structures.
 
@@ -24,9 +28,13 @@ platform independent and can be run from anywhere.
 
 - In case of python interpreter compiles the code.
 
-*Interpreter:  Compiles the code line by line.
+# *Interpreter:  
 
-Compiler:  Take the code and convert it to 0's and 1's.
+Compiles the code line by line.
+
+# Compiler: 
+
+ Take the code and convert it to 0's and 1's.
 *
 But in Java we send the code to compiler and the entire file is sent to byte code which is 
 
@@ -62,7 +70,7 @@ There will be many confusions regarding the terms so lets have a small discussio
 - Byte code is platform independent.
 
 
-**Architecture of JAVA**
+# **Architecture of JAVA**
 
 1. JDK-Java Development Kit
 
@@ -75,7 +83,7 @@ There will be many confusions regarding the terms so lets have a small discussio
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659972538702/voHCKrsDo.png align="left")
 
-1.  JDK
+# 1.  JDK
 
 A package or set of files which provides tools to run a program.
 
@@ -92,7 +100,7 @@ A package or set of files which provides tools to run a program.
 6.interpreter / loader
 
 
-**JRE -Java Runtime Environment: **
+# **JRE -Java Runtime Environment: **
 
 installation package that provides an environment to run a program
 
@@ -106,7 +114,7 @@ It consists of
 
 4. Base libraries
 
-*JVM -Java Virtual Machine: 
+# *JVM -Java Virtual Machine: 
 *
 After the .class file 
 
@@ -160,7 +168,9 @@ Interpreter:
 4. byte code is converted to machine code again and again.
 
 So to solve repeating of executions again and again
-we use JIT -Just in time
+we use JIT.
+
+# JIT -Just in time
 
 JIT provides machine code so that repetition of interpretation is not required
 this allows making execution faster
