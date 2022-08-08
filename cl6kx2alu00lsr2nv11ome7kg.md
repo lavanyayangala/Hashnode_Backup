@@ -28,7 +28,7 @@ platform independent and can be run from anywhere.
 
 - In case of python interpreter compiles the code.
 
-# *Interpreter:  
+# Interpreter:  
 
 Compiles the code line by line.
 
@@ -113,8 +113,8 @@ It consists of
 
 4. Base libraries
 
-# * 3. JVM -Java Virtual Machine: 
-*
+#  3. JVM -Java Virtual Machine: 
+
 After the .class file 
 
 class loader loads all classes needed to execute the program
