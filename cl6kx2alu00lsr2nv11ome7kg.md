@@ -100,8 +100,7 @@ A package or set of files which provides tools to run a program.
 6.interpreter / loader
 
 
-# **JRE -Java Runtime Environment: **
-
+# ** 2. JRE -Java Runtime Environment: **
 installation package that provides an environment to run a program
 
 It consists of 
@@ -114,7 +113,7 @@ It consists of
 
 4. Base libraries
 
-# *JVM -Java Virtual Machine: 
+# * 3. JVM -Java Virtual Machine: 
 *
 After the .class file 
 
@@ -170,7 +169,7 @@ Interpreter:
 So to solve repeating of executions again and again
 we use JIT.
 
-# JIT -Just in time
+#  4. JIT -Just in time
 
 JIT provides machine code so that repetition of interpretation is not required
 this allows making execution faster
